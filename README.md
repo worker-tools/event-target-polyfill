@@ -5,7 +5,7 @@ A polyfill for `EventTarget` (and `Event`), meant to run in Cloudflare Workers (
 
 ## Usage
 
-```
+```js
 import '@worker-tools/event-target-polyfill';
 
 const et = new EventTarget();
