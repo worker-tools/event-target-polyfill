@@ -17,8 +17,8 @@
     "url": "git+https://github.com/worker-tools/event-target-polyfill.git"
   },
   "keywords": [
-    "EventTarget",
-    "Polyfill"
+    "event-target",
+    "polyfill"
   ],
   "author": "Ben Lesh <ben@benlesh.com>",
   "license": "MIT",
