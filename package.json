@@ -1,12 +1,14 @@
 {
-  "name": "event-target-polyfill",
+  "name": "@worker-tools/event-target-polyfill",
   "version": "0.1.1",
   "description": "An EventTarget Polyfill",
   "main": "index.js",
   "exports": {
     ".": "./index.js"
   },
-  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "node ./test.js"
   },
